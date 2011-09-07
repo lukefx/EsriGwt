@@ -1,0 +1,7 @@
+.DS_Store
+.gwt-cache
+target
+doc
+war
+www-test
+tomcat
